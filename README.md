@@ -49,4 +49,8 @@ If you want to browse your published Heroku app folder structure to debug build 
 
 ## Monitor Heroku activity log
 
-`heroku logs --tail -a yourappname`
+If you want to watch the activity logs when you publish your project:
+
+```
+heroku logs --tail -a yourappname
+```
