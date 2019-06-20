@@ -45,7 +45,10 @@ heroku repo:reset -a yourappname
 
 ## Browse your deployed folder structure
 
-If you want to browse your published Heroku app folder structure to debug build scripts `heroku run bash`.
+If you want to browse your published Heroku app folder structure to debug build scripts
+```
+heroku run bash
+```
 
 ## Monitor Heroku activity log
 
